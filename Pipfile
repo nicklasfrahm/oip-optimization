@@ -9,6 +9,7 @@ verify_ssl = true
 numpy = "*"
 matplotlib = "*"
 jupyter = "*"
+sympy = "*"
 
 [requires]
 python_version = "3"
